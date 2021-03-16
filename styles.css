@@ -1,0 +1,54 @@
+.one{
+   background: rgb(2, 0, 36);
+   background: linear-gradient(90deg, rgba(2, 0, 36, 0.5) 0%, rgba(9, 121, 99, 0.03714989413734249) 35%, rgba(0, 212, 255, 0.5) 100%);
+
+}
+table{
+    border: 2px solid black;
+    font-size: 60px;
+    
+    
+}
+td{
+    border: 2px solid black;
+    color: blue;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+li{
+    text-decoration: none;
+    color: blue;
+    font-size: 40px;
+}
+li:hover{
+    color: red;
+    text-decoration: underline;
+}
+p{
+    font-size: 40px;
+    color: green;
+}
+.two{
+    color: orangered;
+    font-size: 50px;
+}
+body{
+    background: url("./water.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+span{
+    margin-left: 80px;
+}
